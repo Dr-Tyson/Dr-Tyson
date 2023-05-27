@@ -5,22 +5,24 @@
 <hr>
 <h3 align="left"><b>What I'm doing:</b></h3>
 
-- 🌁 Currently I am working in **GalaxyOne**
+- 🐱‍👤 Currently I am working in **GalaxyOne**
 
 - 📫 How to reach me: **bisiceteasec@gmail.com**
 
 - ⚡ What I like to do: **Research, singing, cooking**
+
+- 🐱‍🐉
 <hr>
-<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisicetea/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bisicetea)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bisicetea@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bisiceteasec@gmail.com)
 [![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://hackmd.io/@bisicetea)
 [![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/bisicetea)
+[![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://discordapp.com/users/666263615086788608)
 </div>
 
 <hr>
@@ -58,9 +60,6 @@
 <h3 align="left">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
 <p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=DauHoangTai&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DauHoangTai&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=bisicetea&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisicetea&theme=react&layout=compact" />
 </p>
-
-------
-Discord: bisicetea#3642
