@@ -11,8 +11,9 @@
 
 - ⚡ What I like to do: **Research, singing, cooking**
 
-- 🐱‍🐉
+- 🐱‍🐉 What I hate to do: **Waking up**
 <hr>
+<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -22,7 +23,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bisiceteasec@gmail.com)
 [![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://hackmd.io/@bisicetea)
 [![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/bisicetea)
-[![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://discordapp.com/users/666263615086788608)
+[![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/666263615086788608)
 </div>
 
 <hr>
