@@ -11,6 +11,7 @@
 
 - ⚡ What I like to do: **Research, singing, cooking**
 <hr>
+<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
