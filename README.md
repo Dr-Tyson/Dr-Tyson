@@ -16,11 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taidh/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taidh_)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangtaizxc@gmail.com)
-[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](http://dauhoangtai.github.io)
-[![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/hoangtaii)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisicetea/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bisicetea)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bisicetea@gmail.com)
+[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://hackmd.io/@bisicetea)
+[![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/bisicetea)
 </div>
 
 <hr>
