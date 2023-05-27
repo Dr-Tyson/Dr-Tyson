@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **bisiceteasec@gmail.com**
 
-- ⚡ What I like to do: **I like so much game, football...and coding of course**
+- ⚡ What I like to do: I like so much game, football...and coding of course
 
 <hr>
 
