@@ -5,11 +5,11 @@
 <hr>
 <h3 align="left"><b>What I'm doing:</b></h3>
 
-- 🌁 I’m currently studying in **DTU (Duy Tan Universiy - Viet Nam)**
+- 🌁 Currently I am working in **GalaxyOne**
 
 - 📫 How to reach me: **bisiceteasec@gmail.com**
 
-- ⚡ What I like to do: I like so much game, football...and coding of course
+- ⚡ What I like to do: **Research, singing, cooking**
 
 <hr>
 
