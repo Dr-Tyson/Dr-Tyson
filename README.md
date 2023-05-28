@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Tran Van Nhan! (known as bisicetea)<img height="40" src="https://cdn3.emoji.gg/emojis/5625_remspin.gif"></h1>
+<h1 align="center">Hi there <img height="28" src="https://cdn3.emoji.gg/emojis/5969-itadori-salute.png">, I am Tran Van Nhan! (known as bisicetea)<img height="40" src="https://cdn3.emoji.gg/emojis/5625_remspin.gif"></h1>
 <h3 align="center">Security Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
 <img align='left' src="https://profile-counter.glitch.me/bisicetea/count.svg" width="200"><br>
@@ -67,7 +67,7 @@
 <hr>
 
 <h3 align="left">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
+ <img src="https://cdn3.emoji.gg/emojis/ramspin.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://cdn3.emoji.gg/emojis/ramspin.gif" width="30px" alt="GitHub-Status"/></h3>
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=bisicetea&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisicetea&theme=react&layout=compact" />
