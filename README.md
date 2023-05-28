@@ -67,7 +67,7 @@
 <hr>
 
 <h3 align="left">
- <img src="https://cdn3.emoji.gg/emojis/ramspin.gif" width="25px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://cdn3.emoji.gg/emojis/ramspin.gif" width="25px" alt="GitHub-Status"/></h3>
+ <img src="https://cdn3.emoji.gg/emojis/ramspin.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://cdn3.emoji.gg/emojis/ramspin.gif" width="30px" alt="GitHub-Status"/></h3>
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=bisicetea&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisicetea&theme=react&layout=compact" />
