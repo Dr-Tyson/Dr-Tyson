@@ -24,6 +24,7 @@
 [![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://hackmd.io/@bisicetea)
 [![image](https://img.shields.io/badge/Telegram-3399FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/bisicetea)
 [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/666263615086788608)
+[![image](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=Zalo&logoColor=white)](https://zalo.me/0333103201)
 </div>
 
 <hr>
