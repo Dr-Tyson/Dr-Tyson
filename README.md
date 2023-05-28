@@ -11,7 +11,7 @@
 
 - ⚡ What I like to do: **Research, singing, cooking**
 
-- 🐱‍🐉 What I hate to do: **Waking up**
+- 🐉 What I hate to do: **Waking up**
 <hr>
 <br>
 <hr>
