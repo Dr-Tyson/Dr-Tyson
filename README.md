@@ -5,7 +5,7 @@
 <hr>
 <h3 align="left"><b>What I'm doing:</b></h3>
 
-- 🐱‍👤 Currently I am working in **GalaxyOne**
+- 😀 Currently I am working in **GalaxyOne**
 
 - 📫 How to reach me: **bisiceteasec@gmail.com**
 
